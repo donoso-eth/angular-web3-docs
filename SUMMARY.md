@@ -12,7 +12,7 @@
 ***
 
 * [Page 1](page-1.md)
-## [🪄 BLOCKCHAIN](blockchain.md)
+## 🪄 BLOCKCHAIN
 
 ## DAPP transformation
 
