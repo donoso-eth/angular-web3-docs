@@ -10,16 +10,18 @@
 * [Quick Start](getting-started/quick-start.md)
 
 ***
+
 * [Page 1](page-1.md)
-* 
+
 ## BLOCKCHAIN
-* [Quick Start](getting-started/quick-start.md)
 
-## DAPP transformation
+*
 
-* [Dapp Injector](dapp-transformation/dapp-injector.md)
-* [Dapp Config](dapp-transformation/dapp-config.md)
-* [Dapp State](dapp-transformation/dapp-state.md)
+## 🪄 App to Dapp
+
+* [Dapp Injector](app-to-dapp/dapp-injector.md)
+* [Dapp Config](app-to-dapp/dapp-config.md)
+* [Dapp State](app-to-dapp/dapp-state.md)
 
 ## Dapp Demos
 
