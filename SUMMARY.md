@@ -10,9 +10,10 @@
 * [Quick Start](getting-started/quick-start.md)
 
 ***
-
 * [Page 1](page-1.md)
-## 🪄 BLOCKCHAIN
+* 
+## BLOCKCHAIN
+* [Quick Start](getting-started/quick-start.md)
 
 ## DAPP transformation
 
