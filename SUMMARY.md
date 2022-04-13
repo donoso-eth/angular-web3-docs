@@ -1,12 +1,9 @@
 # Table of contents
 
-* [Welcome to Angular Web3](README.md)
-* [Page 3](page-3.md)
-* [Page 2](page-2.md)
+* [🏁 Welcome to ng web3](README.md)
 
 ## Getting Started
 
-* [Installation](getting-started/installation.md)
 * [Quick Start](getting-started/quick-start.md)
 
 ***
@@ -17,11 +14,11 @@
 
 *
 
-## 🪄 App to Dapp
+## 🪄 ng App --->  ng dApp
 
-* [Dapp Injector](app-to-dapp/dapp-injector.md)
-* [Dapp Config](app-to-dapp/dapp-config.md)
-* [Dapp State](app-to-dapp/dapp-state.md)
+* [Dapp Injector](ng-app-greater-than-ng-dapp/dapp-injector.md)
+* [Dapp Config](ng-app-greater-than-ng-dapp/dapp-config.md)
+* [Dapp State](ng-app-greater-than-ng-dapp/dapp-state.md)
 
 ## Dapp Demos
 
