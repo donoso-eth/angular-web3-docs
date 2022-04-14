@@ -1,2 +1,0 @@
-# GraphQl Apollo Client
-

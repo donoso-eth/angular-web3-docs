@@ -6,10 +6,13 @@
 
 * [Quick Start](getting-started/quick-start.md)
 
+***
+
+* [Page 1](page-1.md)
+
 ## BLOCKCHAIN
 
 *
-* [Concepts](blockchain/concepts.md)
 
 ## 🪄 ng App --->  ng dApp
 
@@ -19,19 +22,8 @@
 
 ## Dapp Demos
 
-* [Hello World](dapp-demos/hello-world.md)
-* [Debug Contract](dapp-demos/debug-contract.md)
-* [Nft Contract](dapp-demos/nft-contract.md)
-* [Super Fluid](dapp-demos/super-fluid.md)
-* [Lens Protocol](dapp-demos/lens-protocol.md)
-* [Lite Coin](dapp-demos/lite-coin.md)
-* [Livepeer](dapp-demos/livepeer.md)
+* [Speed up with quick find](dapp-demos/speed-up-with-quick-find.md)
 
-## Add Ons
+## Next steps
 
-* [Ipfs Service](add-ons/what-next.md)
-* [GraphQl Apollo Client](add-ons/graphql-apollo-client.md)
-* [subgraph](add-ons/subgraph.md)
-* [Graph Node](add-ons/graph-node.md)
-* [Super Fluid Service (sdk)](add-ons/super-fluid-service-sdk.md)
-* [Lite Coin Service (sdk)](add-ons/lite-coin-service-sdk.md)
+* [What next?](next-steps/what-next.md)
